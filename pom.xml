@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <selenium.version>4.14.1</selenium.version>
-        <selenide.version>6.19.1</selenide.version>
+        <selenide.version>7.0.0</selenide.version>
         <testng.version>7.6.1</testng.version>
 
     </properties>
